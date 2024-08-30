@@ -66,7 +66,7 @@ export default function Home() {
       <main className="flex-grow px-8 py-16">
         <section className="max-w-4xl mx-auto text-center">
           <h2 className="text-main text-5xl font-serif font-bold mb-6">
-            hi I'm aniruddh
+            hi I&apos;m aniruddh
           </h2>
           <p className="text-xl font-light mb-12">
             I'm a Computer Science Engineering student with a passion for web
